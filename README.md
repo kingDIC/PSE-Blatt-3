@@ -7,17 +7,17 @@ a) erledigt
 
 b) erledigt 
 
-c) 
+c) erledigt
 
-d) 
+d) erledigt
 
 Aufgabe 2 
 
-a) 
+a) erledigt
 
-b) 
+b) erledigt
 
-c) 
+c) erledigt
 
 Aufgabe 3 
 
@@ -27,6 +27,6 @@ b)
 
 c) 
 
-d) 
+d) erledigt
 
 e) 
