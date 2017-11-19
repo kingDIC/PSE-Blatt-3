@@ -17,7 +17,7 @@ public class GeometryFunctions {
   /* Berechnet die Hypotenuse eines rechtwinkligen Dreiecks mit gegebener Kathete und Ankathete.
    * @param a Eine Seite des Dreiecks.
    * @param b Eine andere Seite des Dreiecks.
-   * @return Die LÃ¤nge der dritten Seite.
+   * @return Die Länge der dritten Seite.
    */
   public static double pythagorenTheorem(int a, int b) {
     if (a < 0 || b < 0) {
