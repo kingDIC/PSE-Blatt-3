@@ -17,7 +17,7 @@ public class GeometryFunctions {
   /* Berechnet die Hypotenuse eines rechtwinkligen Dreiecks mit gegebener Kathete und Ankathete.
    * @param a Eine Seite des Dreiecks.
    * @param b Eine andere Seite des Dreiecks.
-   * @return Die Länge der dritten Seite.
+   * @return Die LÃ¤nge der dritten Seite.
    */
   public static double pythagorenTheorem(int a, int b) {
     if (a < 0 || b < 0) {
@@ -30,7 +30,7 @@ public class GeometryFunctions {
   public static void main(String[] args) {
     // To test
     System.out.println(computeCircumference(-1));
-    System.out.println(computeCircumference(3));
+    System.out.println(computeCircumference(4));
     System.out.println(pythagorenTheorem(2, 3));
   }
 
